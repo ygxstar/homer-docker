@@ -9,7 +9,7 @@
 
 ## Docker Recipes
 
-This repository provides ready-to-run [HOMER 10](https://github.com/sipcapture/homer/tree/homer10) recipes using `Docker` and [docker-compose](https://docs.docker.com/compose/install/)
+This repository provides ready-to-run [HOMER 10](https://github.com/sipcapture/homer) recipes using `Docker` and [docker-compose](https://docs.docker.com/compose/install/)
 
 ### Running Containers
 
